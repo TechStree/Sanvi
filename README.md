@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanvi Srivastava!
 
-🎓 BTech 1st-year student at Jain University  
+🎓 BTech 2nd-year student at Jain University  
 💻 Passionate about Python, Data Science, and real-world problem solving  
 🔍 Always curious, always learning  
 📚 Tools I use: Jupyter Notebooks, Google Colab, Excel, Word, Canva  
